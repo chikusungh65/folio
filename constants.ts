@@ -44,13 +44,13 @@ export const TYPED_STRINGS = [
 export const EMAIL = "ayush.singh.xda@gmail.com";
 
 export const SOCIAL_LINKS = {
-  linkedin: "https://www.linkedin.com/in/alphaayush/",
-  github: "https://github.com/ayush013",
-  medium: "https://alphaayush.medium.com/",
-  instagram: "https://www.instagram.com/alphaayush/",
+  linkedin: "https://in.linkedin.com/in/ankit-kumar-257473152",
+  github: "https://github.com/chikusungh65",
+  medium: "https://medium.com/@ankitkumarwebskitters",
+  instagram: "https://www.instagram.com/chiku_singh_52/",
   facebook: "https://www.facebook.com/ayush013",
-  dribbble: "https://dribbble.com/alphaayush",
-  behance: "https://www.behance.net/alphaayush/",
+  dribbble: "https://dribbble.com/AKSDEV231",
+  behance: "https://www.behance.net/c8300ad3",
   twitter: "https://twitter.com/ayush013",
   topmate: "https://www.topmate.io/alphaayush/",
 };
