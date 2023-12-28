@@ -454,7 +454,7 @@ export const TIMELINE: Array<TimelineNodeV2> = [
     title: "UI/UX, Frontend Engineer",
     size: ItemSize.SMALL,
     subtitle:
-      "Started journey in SDC-SI, where I learnt the fundamentals of Frontend, UI/UX, Graphic design and more...",
+      "Started journey as a Frontend Developer, where I learnt the fundamentals of Frontend, UI/UX, Graphic design and more...",
     image: "/timeline/si.svg",
     slideImage: "/timeline/si-start.jpg",
     shouldDrawLine: true,
@@ -469,12 +469,12 @@ export const TIMELINE: Array<TimelineNodeV2> = [
   },
   {
     type: NodeTypes.CHECKPOINT,
-    title: "Recognized Themer",
+    title: "Computer Science Engineer",
     size: ItemSize.SMALL,
     subtitle:
-      "Awarded as recognized themer,  Developed themes and ROMs for Xperia 2011 devices lineup with over 15k+ downloads. Featured on xda portal twice.",
-    image: "/timeline/xda.svg",
-    slideImage: "/timeline/xda-rt.jpg",
+      "Started my journey as a computer science engineering student in G.I.E.T Gunupur , Also started to work as a freeLancer.",
+    image: "/timeline/gietu.png",
+    slideImage: "/timeline/campus-tour-giet.jpg",
     shouldDrawLine: true,
     alignment: Branch.LEFT,
   },
